@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Sibgah, a Indonesian Front-End Developer</h1>
+<h1>Hi 👋, I'm Sibgah, an Indonesian Front-End Developer</h1>
 💫 About Me:
 Front-End Developer | Former Marketing and Social Media Strategist | Information Systems Student.<br>
 
