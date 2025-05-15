@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Sibgah, an Indonesian Front-End Developer</h1>
 💫 About Me:
-Front-End Developer | Former Marketing and Social Media Strategist | Information Systems Student.<br>
+Junior Front-End Developer | Former Content Creator | Ungraduate Information Systems Student.<br>
 
 
 ## 🌐 Socials:
